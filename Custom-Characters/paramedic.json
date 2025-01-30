@@ -1,0 +1,12 @@
+[
+    {
+        "id": "bgw-paramedic",
+        "name": "Paramedic",
+        "edition": "bgw",
+        "team": "townsfolk",
+        "image": "https://cdn-icons-png.flaticon.com/512/7551/7551331.png",
+        "otherNight": 1,
+        "otherNightReminder": "Wake up paramedic to heal a player.",
+        "ability": "Each night, choose a player different from last night (including yourself). They are healed from poison effects and do not die or become evil"
+    }
+]
