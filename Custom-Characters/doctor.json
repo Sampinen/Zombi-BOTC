@@ -5,6 +5,6 @@
         "edition": "bgw",
         "team": "townsfolk",
         "image": "https://cdn-icons-png.flaticon.com/512/7551/7551331.png",
-        "ability": "Once per game, during day: Choose a player, they become your alignment."
+        "ability": "Once per game, during day: Choose a player, they become your alignment. The demons are immune to this ability."
     }
 ]
