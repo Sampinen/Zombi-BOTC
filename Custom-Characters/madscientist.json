@@ -4,7 +4,7 @@
         "name": "Mad Scientist",
         "edition": "bgw",
         "team": "demon",
-        "image": "https://cdn-icons-png.flaticon.com/512/7551/7551331.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mad_scientist_transparent_background.svg",
         "otherNight": 1,
         "otherNightReminder": "Wake up the Mad scientist to choose a player",
         "ability": "[-No minions] [+adds another demon: Zombie] [+Doctor], [+Paramedic] Each Night, choose a player, they become poisoned. The previously poisoned player dies (but are not cured from poison)."
