@@ -12,7 +12,6 @@
         "reminders": [
             "Known player"
         ],
-        "ability": "Each night, choose a player. They become poisoned for the next day. Unless cured during the next day or night, they become infected(=evil) (they keep their abilities). If the Mad Scientist is dead, one of the infected townsfolk dies each night. If Mad Scientist is dead and no infected townsfolk is left, the zombie dies.
-        If cured by doctor, you become good townsfolk and lose all your abilities."
+        "ability": "Each night, choose a player. They become poisoned for the next day. Unless cured during the next day or night, they become infected(=evil) (they keep their abilities). If the Mad Scientist is dead, one of the infected townsfolk dies each night. If Mad Scientist is dead and no infected townsfolk is left, the zombie dies. If cured by doctor, you become good townsfolk and lose all your abilities."
     }
 ]
