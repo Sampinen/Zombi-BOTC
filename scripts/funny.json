@@ -15,7 +15,7 @@
         "id": "bgw-minion-destroyer",
         "name": "Minion Destroyed 1000",
         "edition": "bgw",
-        "team": "outsider",
+        "team": "townsfolk",
         "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nicepng.com%2Fpng%2Fdetail%2F206-2067697_crazy-minions-transparent-image-evil-minion.png",
         "otherNight": 1,
         "otherNightReminder": "Wake up the Grasshopper to choose a player",
