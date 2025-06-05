@@ -31,7 +31,7 @@
         "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-SVwFhOAzCrY%2FT72oqALoQ2I%2FAAAAAAAAGHc%2FMAN4RUpc850%2Fs1600%2Fgreen_grasshopper_1200x900.jpg",
         "otherNight": 1,
         "otherNightReminder": "Wake up the Grasshopper to choose a player",
-        "ability": "Each night*, choose a player, you become their alignment. You do not learn your current alignment"
+        "ability": "Each night*, choose a player different from last night, you become their alignment. You do not learn your current alignment"
     },
     {
         "id": "bgw-tombraiser",
