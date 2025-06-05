@@ -22,16 +22,6 @@
         "ability": "Each night*, choose a player, if they are a minion, they die, any good player becomes drunk until dusk"
     },
   "lunatic",
-    {
-        "id": "bgw-grasshopper",
-        "name": "Mad Scientist",
-        "edition": "bgw",
-        "team": "outsider",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mad_scientist_transparent_background.svg",
-        "otherNight": 1,
-        "otherNightReminder": "Wake up the Grasshopper to choose a player",
-        "ability": "Each night, choose a player and you become their alignment"
-    },
   "golem",
     {
         "id": "bgw-tombraiser",
