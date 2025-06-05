@@ -10,7 +10,16 @@
   "gambler",
   "monk",
   "soldier",
-  "poppygrower",
+     {
+        "id": "bgw-antitoxin",
+        "name": "Antitoxin",
+        "edition": "bgw",
+        "team": "townsfolk",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nicepng.com%2Fpng%2Fdetail%2F206-2067697_crazy-minions-transparent-image-evil-minion.png",
+        "otherNight": 1,
+        "otherNightReminder": "Wake up the antitoxin to choose a player",
+        "ability": "Each night, choose a player, you learn if they are under any negative effects"
+    },
      {
         "id": "bgw-minion-destroyer",
         "name": "Minion Destroyed 1000",
