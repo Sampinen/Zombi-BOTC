@@ -16,7 +16,7 @@
         "name": "Minion Destroyed 1000",
         "edition": "bgw",
         "team": "outsider",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mad_scientist_transparent_background.svg",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nicepng.com%2Fpng%2Fdetail%2F206-2067697_crazy-minions-transparent-image-evil-minion.png",
         "otherNight": 1,
         "otherNightReminder": "Wake up the Grasshopper to choose a player",
         "ability": "Each night*, choose a player, if they are a minion, they die, any good player becomes drunk until dusk"
@@ -24,24 +24,34 @@
   "lunatic",
   "golem",
     {
+        "id": "bgw-grasshopper",
+        "name": "Grasshopper",
+        "edition": "bgw",
+        "team": "outsider",
+        "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-SVwFhOAzCrY%2FT72oqALoQ2I%2FAAAAAAAAGHc%2FMAN4RUpc850%2Fs1600%2Fgreen_grasshopper_1200x900.jpg",
+        "otherNight": 1,
+        "otherNightReminder": "Wake up the Grasshopper to choose a player",
+        "ability": "Each night*, choose a player, you become their alignment"
+    },
+    {
         "id": "bgw-tombraiser",
         "name": "Tombraiser",
         "edition": "bgw",
         "team": "outsider",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mad_scientist_transparent_background.svg",
+        "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbrannonidh1830.files.wordpress.com%2F2011%2F04%2Ftut-tomb-interior.jpg",
         "otherNight": 1,
         "ability": "If you are executed, you win and everyone else loses (even if you are dead)"
     },
   "poisoner",
   "widow",
     {
-        "id": "bgw-sound-slider",
-        "name": "Sound slider",
+        "id": "bgw-volume-slider",
+        "name": "Volume slider",
         "edition": "bgw",
         "team": "minion",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mad_scientist_transparent_background.svg",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc8.alamy.com%2Fcomp%2F2DXK1AX%2Faudio-volume-slider-control-vector-icon-graph-symbol-for-music-and-sound-web-site-and-apps-design-logo-app-ui-2DXK1AX.jpg",
         "otherNight": 1,
-        "otherNightReminder": "Wake up sound slider to choose a player",
+        "otherNightReminder": "Wake up Volume slider to choose a player",
         "ability": "Each night*, choose a player, they cannot speak publicly during the next day or they die"
     },
   "boomdandy",
