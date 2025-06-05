@@ -28,5 +28,39 @@
         "ability": "Each night, choose a player different from last night (including yourself). They are healed from poison effects and do not die or become infected. Abilities are disabled if you are infected.",
         "setup": false,
         "reminders": []
+    },
+    {
+        "id": "bgw-madscientist",
+        "name": "Mad Scientist",
+        "edition": "bgw",
+        "team": "demon",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mad_scientist_transparent_background.svg",
+        "otherNight": 1,
+        "otherNightReminder": "Wake up the Mad scientist to choose a player",
+        "ability": "[-No minions] [+adds another demon: Zombie] [+Doctor], [+Paramedic] Each Night, choose a player, they become poisoned. The previously poisoned player dies (but are not cured from poison)."
+    },
+    {
+        "id": "bgw-zombie",
+        "name": "zombie",
+        "edition": "bgw",
+        "team": "demon",
+        "image": "https://www.publicdomainpictures.net/pictures/170000/velka/zombie-iii.jpg",
+        "firstNight": 1,
+        "firstNightReminder": "Wake up the zombie to choose a player.",
+        "otherNight": 1,
+        "otherNightReminder": "Wake up the zombie to choose a player.",
+        "reminders": [
+            "Known player"
+        ],
+        "ability": "Each night, choose a player. They become poisoned for the next day. Unless cured during the next day or night, they become infected(=evil) (they keep their abilities). If the Mad Scientist is dead, one of the infected townsfolk dies each night. If Mad Scientist is dead and no infected townsfolk is left, the zombie dies. If cured by doctor, you become good townsfolk and lose all your abilities."
+    },
+    {
+        "id": "bgw-doctor",
+        "name": "Doctor",
+        "edition": "bgw",
+        "team": "townsfolk",
+        "image": "https://www.pngall.com/wp-content/uploads/2016/06/Biohazard-Symbol-Download-PNG.png",
+        "ability": "Once per game, during day: Choose a player (including yourself), they are cured from infection (=they become good). If this ability hits the zombie, they become a townsfolk with no abilities. The mad Scientist is immune."
     }
+
 ]
