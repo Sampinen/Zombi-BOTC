@@ -28,8 +28,12 @@ Antitoxin:
 - Being muted is also considered a state and a negative effect
 
 
+Minion Destroyer 1000:
 
+- Uno Reverse is poisoned and dies only if chosen by a minion with "choose" ability (the ability has to explicitly say "choose a player/townsfolk/character etc."). 
 
+- Minions and demons use their night abilities before Minion Destroyer 1000, meaning if chosen by minion ability, the Minion Destroyer's ability does not work correctly during that night and they are completely unable to use their ability during the next night (because they are dead after the day is over)
 
+- If chosen by a minion ability, you ignore any effects that minion ability would otherwise give you and only gain poisoning
 
 
