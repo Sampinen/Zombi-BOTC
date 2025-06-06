@@ -56,7 +56,7 @@
         "team": "outsider",
         "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbrannonidh1830.files.wordpress.com%2F2011%2F04%2Ftut-tomb-interior.jpg",
         "otherNight": 1,
-        "ability": "If you are executed, you win and everyone else loses. Works even if you are dead"
+        "ability": "If you are executed, you win and everyone else loses. (Even if you were already dead)"
     },
   "poisoner",
   "psychopath",
