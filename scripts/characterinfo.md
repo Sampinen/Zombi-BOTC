@@ -17,7 +17,7 @@ Uno Reverse:
 Antitoxin:
 
 
-- A [State](https://wiki.bloodontheclocktower.com/States) that would negatively affect gameplay is considered a negative effect
+- A [State](https://wiki.bloodontheclocktower.com/States) caused by a player ability that would negatively affect gameplay is considered a negative effect
 
   Exceptions: 
     - Being a type, alignment or character for example being the character drunk or Lunatic is not counted as a negative effect
