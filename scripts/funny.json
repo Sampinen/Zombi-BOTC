@@ -38,7 +38,7 @@
         "ability": "[+0 or +1 outsider] Each night*, choose a player, if they are a minion, they die, any good player becomes drunk until dusk. If you are choosen by a minion ability, you are poisoned for the next day and then die."
     },
   "lunatic",
-  "golem",
+  "drunk",
     {
         "id": "bgw-grasshopper",
         "name": "Grasshopper",
