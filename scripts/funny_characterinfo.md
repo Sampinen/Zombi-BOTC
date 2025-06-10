@@ -36,4 +36,8 @@ Minion Destroyer 1000:
 
 - If chosen by a minion ability, you ignore any effects that minion ability would otherwise give you and only gain poisoning
 
+- This means Minion destroyer does not die immediately to psychopath (as psychopath's ability says "choose" but lives for the next night and day and then dies unless killed by other means. 
+
+- Assassin works normally because of the "even if they otherwise couldn't effect"
+
 
