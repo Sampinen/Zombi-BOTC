@@ -35,7 +35,7 @@
         "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nicepng.com%2Fpng%2Fdetail%2F206-2067697_crazy-minions-transparent-image-evil-minion.png",
         "otherNight": 1,
         "otherNightReminder": "Wake up the Grasshopper to choose a player",
-        "ability": "[+0 or +1 outsider] Each night*, choose a player, if they are a minion, they die, any good player becomes drunk until dusk. If you are choosen by a minion ability, you are poisoned for the next day and then die."
+        "ability": "[+0 or +1 outsider] Each night*, choose a player, if they are a minion, they die, any good player becomes drunk until dusk. If you are choosen by a minion ability, instead, you are poisoned for the next day and then die."
     },
   "drunk",
   "moonchild",
