@@ -1,6 +1,6 @@
-[{"id":"_meta","author":"Sirkkeli","name":"Funny"},
+[{"id":"_meta","name":"Funny"},
   "slayer",
-  "magician",
+  "empath",
   "fool",
   "bountyhunter",
   "banshee",
@@ -59,7 +59,7 @@
         "ability": "If you are executed, you win and everyone else loses. (Even if you were already dead)"
     },
   "poisoner",
-  "psychopath",
+  "assassin",
     {
         "id": "bgw-volume-slider",
         "name": "Volume slider",
