@@ -5,14 +5,25 @@
   "noble",
   "bountyhunter",
   "monk",
-  "towncrier",
+  "pacifist",
      {
         "id": "bgw-uno-reverse",
         "name": "Uno reverse",
         "edition": "bgw",
         "team": "townsfolk",
         "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Fndnkxh3m4ima1.jpg",
-        "ability": "If you are picked by any non-demon choose ability, if the ability should affect you it affects them and if it should affect them it affects you"
+        "ability": "If you are picked by any non-demon choose ability, if the ability should affect you it affects them and if it should affect them it affects you",
+       "jinxes": [
+        {
+          "id": "assassin",
+          "reason": "If assassin targets Uno Reverse, assassin dies, even if they otherwise couldn't. "
+        },
+        {
+          "id": "gambler",
+          "reason": "Info roles give information about themselves when Uno Reverse is chosen, meaning Gambler must guess their own character in order for both players to survive. If Gambler guesses wrong, Uno Reverse dies. "
+        },
+         
+       ]
     },
   "exorcist",
   "gambler",
@@ -30,7 +41,7 @@
     },
      {
         "id": "bgw-minion-destroyer",
-        "name": "Minion Destroyed 1000",
+        "name": "Minion Destroyer 1000",
         "edition": "bgw",
         "team": "townsfolk",
         "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nicepng.com%2Fpng%2Fdetail%2F206-2067697_crazy-minions-transparent-image-evil-minion.png",
@@ -57,7 +68,13 @@
         "team": "outsider",
         "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbrannonidh1830.files.wordpress.com%2F2011%2F04%2Ftut-tomb-interior.jpg",
         "otherNight": 1,
-        "ability": "If you are executed, you win and everyone else loses. (Even if you were already dead)"
+        "ability": "If you are executed, you win and everyone else loses. (Even if you were already dead)",
+        "jinxes": [
+        {
+          "id": "pacifist",
+          "reason": "If there is a pacifist in play and the storyteller decides that you won't die, your ability does not activate. "
+        }
+             ]
     },
   "poisoner",
   "assassin",
@@ -69,7 +86,14 @@
         "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc8.alamy.com%2Fcomp%2F2DXK1AX%2Faudio-volume-slider-control-vector-icon-graph-symbol-for-music-and-sound-web-site-and-apps-design-logo-app-ui-2DXK1AX.jpg",
         "otherNight": 1,
         "otherNightReminder": "Wake up Volume slider to choose a player",
-        "ability": "Each night*, choose a player different from last night, they are muted. The muted player cannot speak or communicate publicly (voting is allowed) or they die. This includes abilities that require you to speak publicly"
+        "ability": "Each night*, choose a player different from last night, they are muted. The muted player cannot speak or communicate publicly (voting is allowed) or they might die. This includes abilities that require you to speak publicly",
+             "jinxes": [
+        {
+          "id": "Gangster",
+          "reason": "Muted player is allowed to give approval if Gangster decides to kill their neigbor. "
+        }
+         
+       ]
     },
   "boomdandy",
   "nodashii",
