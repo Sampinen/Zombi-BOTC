@@ -50,7 +50,7 @@ Volume slider:
 
 - Writing is a big no!
 
-- Muted player cannot use abilities that requires public speaking. For example slayer using their ability while muted will result in slayer dying and their ability not working (as it requires slayer to be alive).
+- Muted player cannot use abilities that require public speaking. For example slayer using their ability while muted will result in slayer dying and their ability not working (as it requires slayer to be alive).
 
 - Muted player can ask others to speak privately
 
