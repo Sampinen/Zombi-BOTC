@@ -1,7 +1,8 @@
 [{"id":"_meta","name":"Funny"},
   "slayer",
   "empath",
-  "fool",
+  "undertaker",
+  "noble",
   "bountyhunter",
   "banshee",
   "farmer",
@@ -15,7 +16,7 @@
     },
   "exorcist",
   "gambler",
-  "monk",
+  "professor",
   "philosopher",
      {
         "id": "bgw-antitoxin",
@@ -37,7 +38,7 @@
         "otherNightReminder": "Wake up the Grasshopper to choose a player",
         "ability": "[+1 outsider] Each night*, choose a player, if they are a non-demon evil player, they die, any good player becomes drunk until dusk. If you are choosen by non-demon evil player with a choose ability, you become poisoned for the next day and then die."
     },
-  "drunk",
+  "zealot",
   "moonchild",
     {
         "id": "bgw-grasshopper",
@@ -71,6 +72,6 @@
         "ability": "Each night*, choose a player different from last night, they are muted and cannot speak publicly during the next day or they die"
     },
   "boomdandy",
-  "shabaloth",
+  "nodashii",
   "zombuul",
-  "pukka"]
+  "imp"]
