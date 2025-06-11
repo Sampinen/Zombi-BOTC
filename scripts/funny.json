@@ -21,7 +21,7 @@
         {
           "id": "gambler",
           "reason": "Info roles give information about themselves when Uno Reverse is chosen, meaning Gambler must guess their own character in order for both players to survive. If Gambler guesses wrong, Uno Reverse dies. "
-        },
+        }
          
        ]
     },
