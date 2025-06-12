@@ -89,7 +89,7 @@
         "ability": "Each night*, choose a player different from last night, they are muted. The muted player cannot speak or communicate publicly (voting is allowed) or they might die. This includes abilities that require you to speak publicly",
              "jinxes": [
         {
-          "id": "Gangster",
+          "id": "gangster",
           "reason": "Muted player is allowed to give approval if Gangster decides to kill their neigbor. "
         }
          
